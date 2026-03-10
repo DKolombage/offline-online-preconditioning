@@ -27,7 +27,7 @@ cd offline-online-preconditioning
 ```
 Disclaimer! The re-generation of these experiments may take quite a while. While the visulizations are immediate, the regenerations of data from the scratch took us several hours.
 
-## Reproduction of experiment
+## Reproduction of experiments
 You could reproduce the data sets for the results given in the manuscript. The following files contain the main algorithms, analysis and the plots to run the experiments.
  1. Utility files
    - ``fem.py`` $\to$ assembles the necessary finite element matrices.
@@ -67,7 +67,7 @@ You could reproduce the data sets for the results given in the manuscript. The f
 
 Some parts of the code in fem.py, world.py, util.py and coef.py are influenced by the work of Fredrik Hellman and Tim Keil. For further details of the terminology and the linear data storage used in this implementation, please refer to their ``README.md`` file available at: 'https://github.com/fredrikhellman/gridlod/blob/0ed4c096df75040145978d48c5307ef5678efed3/README.md'. The ``build_coefficient.py`` is build upon a code developed by Barbara Verfürth and can be found in 'https://github.com/BarbaraV/gridlod-random-perturbations'.
 
-### Visualization of results
+## Visualization of results
 All data from the experiments are available at the `data` folder as .npz-files and can be easily visualize without generating the data. The already generated images can also be found in the respective folders.
 1. To visualize Figure 6.1, run
    ``DataAnalysis_Iterations.py``  with EXP_DIRS = ["data/Incl/cnt_10/","data/Incl/cnt_100/","data/Incl/cnt_500/",]
