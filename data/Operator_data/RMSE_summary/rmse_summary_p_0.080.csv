@@ -1,0 +1,2 @@
+p,p_folder,seed,n_samples,rmse_abs_oo,rmse_abs_a0,rmse_rel_oo,rmse_rel_a0
+0.08,/home/kolombag/OOBprec/Bdata/Bp8/p_0.080,123,100,235.8477313011894,483.69155669439704,0.08189900298589274,0.16807784122530947

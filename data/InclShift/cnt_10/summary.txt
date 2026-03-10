@@ -1,0 +1,32 @@
+======================= SUMMARY =======================
+
+
+*** p = 0.000 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+
+*** p = 0.020 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.32
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 41.76
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 23.65
+
+*** p = 0.040 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.95
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 47.12
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 28.65
+
+*** p = 0.060 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 19.22
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 49.14
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 31.04
+
+*** p = 0.080 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 19.47
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 50.80
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 33.05
+
+*** p = 0.100 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 19.65
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 53.25
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 34.23

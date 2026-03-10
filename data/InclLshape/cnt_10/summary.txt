@@ -1,0 +1,34 @@
+======================= SUMMARY =======================
+
+
+*** p = 0.000 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.00
+
+*** p = 0.020 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 17.99
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 19.70
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.03
+
+*** p = 0.040 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 17.99
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 20.78
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.31
+
+*** p = 0.060 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.11
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 21.12
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.55
+
+*** p = 0.080 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.15
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 21.39
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 18.95
+
+*** p = 0.100 ***
+    direct: converged 150/150  | rate = 100.00%  | avg iters = 18.25
+        A0: converged 150/150  | rate = 100.00%  | avg iters = 21.79
+        OO: converged 150/150  | rate = 100.00%  | avg iters = 19.23
+
+CSV summary saved to: data/2D/InclLshape/cont10/convergence_summary.csv
